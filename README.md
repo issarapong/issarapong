@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @issarapong
-- 👀 I’m interested in ...Computer/History/Philosophy/Business
+- 👀 I’m interested in ...Computer 💻  History 🌎 Philosophy 📚  Business 💰 
 - 🌱 I’m currently learning ...Java script
 - 💞️ I’m looking to collaborate on ...data customer platform.
 - 📫 How to reach me ...
