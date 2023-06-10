@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @issarapong
 - 👀 I’m interested in ...Computer 💻  History 🌎 Philosophy 📚  Business 💰 
 - 🌱 I’m currently learning ...JavaScript, ReactJS, NodeJS, ExpressJS
-- 💞️ I’m looking to collaborate on ...data customer platform.
+- 💞️ I’m looking to collaborate on ...Customer data platform.
 - 📫 How to reach me ...
 
 <!---
